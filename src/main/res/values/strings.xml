@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">The Better Netflix</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="movie_list_fragment_label">Movies List</string>
+    <string name="movie_edit_fragment_label">Movie Edit</string>
+    <string name="edit">Edit Movie</string>
+    <string name="save">Save Movie</string>
+
+    <!-- hints for edit texts-->
+    <string name="hint_movie_title">Movie Title</string>
+    <string name="hint_investment">Investment</string>
+    <string name="hint_date">Release date</string>
+    <string name="hint_hasSequel">Has Sequel</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+
+    <string name="login_string">log in</string>
+    <string name="logout_string">log out</string>
+    <string name="delete">delete</string>
+    <string name="invalid_username">Username is not valid!</string>
+    <string name="invalid_password">Password cannot be empty!</string>
+    <string name="release_date">Release Date:</string>
+    <string name="search">Search</string>
+    <string name="no_sequel">No Sequel</string>
+    <string name="active_network">Online</string>
+    <string name="inactive_network">Offline</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="google_maps_api_key">AIzaSyCMdR2oWmL3TFwpIXdZzi3AFPvftK7Znvw</string>
+    <string name="set_location">Set location</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="locate">locate</string>
+    <string name="hint_tap_longpress_text">Tap or long press on the map</string>
+    <string name="move_camera">Move the camera</string>
+</resources>
